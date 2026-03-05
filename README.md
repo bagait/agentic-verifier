@@ -4,9 +4,6 @@ This project demonstrates a simple but powerful multi-agent system where one AI 
 
 Inspired by the growing concern over AI-generated misinformation, this tool provides a practical implementation of an automated verification layer.
 
-![Agentic Verifier Demo](./demo.png)
-*Actual screenshot of the tool running.*
-
 ## Features
 
 - **Generative Agent**: Creates a concise, factual paragraph on a user-provided topic.
